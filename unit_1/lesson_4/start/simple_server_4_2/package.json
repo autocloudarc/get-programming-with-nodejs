@@ -1,0 +1,26 @@
+{
+  "name": "simple_server_4_2",
+  "version": "1.0.0",
+  "description": "\"A basic nodejs web applictaion.\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autocloudarc/get-programming-with-nodejs.git"
+  },
+  "keywords": [
+    "web",
+    "application"
+  ],
+  "author": "Preston K. Parsard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autocloudarc/get-programming-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/autocloudarc/get-programming-with-nodejs#readme",
+  "dependencies": {
+    "http-status-codes": "^2.3.0"
+  }
+}
