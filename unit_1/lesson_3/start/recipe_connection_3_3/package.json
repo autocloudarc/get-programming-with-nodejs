@@ -1,0 +1,23 @@
+{
+  "name": "recipe_connection_3_3",
+  "version": "1.0.0",
+  "description": "\"An app to share cooking recipies\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autocloudarc/get-programming-with-nodejs.git"
+  },
+  "keywords": [
+    "recipe",
+    "modules"
+  ],
+  "author": "Preston K. Parsard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autocloudarc/get-programming-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/autocloudarc/get-programming-with-nodejs#readme",
+}
